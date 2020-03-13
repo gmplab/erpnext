@@ -4,6 +4,8 @@
 
 [https://erpnext.com](https://erpnext.com)
 
+Forked for use in China [https://corp.gmplab.com](https://corp.gmplab.com)
+
 Includes: Accounting, Inventory, Manufacturing, CRM, Sales, Purchase, Project Management, HRMS. Requires MariaDB.
 
 ERPNext is built on the [Frappe](https://github.com/frappe/frappe) Framework, a full-stack web app framework in Python & JavaScript.
